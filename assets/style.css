@@ -1,0 +1,18 @@
+.input-group{
+    width: 18%;
+}
+
+.recent{
+    width:70%;
+    height:265px;
+    margin-top: -83px;
+    margin-bottom: 30px;
+}
+
+.forecast{
+    width:70%;
+    height:265px;
+}
+.split{
+    height:265px;
+}
